@@ -1,5 +1,3 @@
-///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
-
 package application;
 
 import chess.ChessMatch;
